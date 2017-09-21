@@ -1,0 +1,26 @@
+body {
+  background-color: red;
+}
+
+.bluestyle {
+    color: blue;
+    font-size: 32 px;
+}
+
+.large {
+    font-size: 32 px;
+}
+
+nav li {
+    width: 200px;
+    display: inline;
+    margin: 10 px;
+    position: relative;
+    top: -20px;
+    font-size: 25px;
+    padding: 10px;
+}
+
+nav {
+    text-align: center;
+}
